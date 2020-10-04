@@ -1,0 +1,11 @@
+{
+    "name": "sl9/examle",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "BVVSL9",
+            "email": "slx888@bk.ru"
+        }
+    ],
+    "require": {}
+}
