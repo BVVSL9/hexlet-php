@@ -1,4 +1,7 @@
 <?php
+/*
+index comment
+*/
 
 require __DIR__ . '/vendor/autoload.php';
 

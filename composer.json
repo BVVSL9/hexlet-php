@@ -6,6 +6,9 @@
 	    ]
     },
     "description": "example package",
+    "scripts": {
+	        "phpcs": "phpcs"
+		},
     "authors": [
         {
             "name": "BVVSL9",
@@ -13,7 +16,8 @@
         }
     ],
     "require": {
-        "tightenco/collect": "^8.0"
+        "tightenco/collect": "^8.0",
+        "squizlabs/php_codesniffer": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.4"
