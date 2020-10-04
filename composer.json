@@ -7,5 +7,10 @@
             "email": "slx888@bk.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    }
 }
